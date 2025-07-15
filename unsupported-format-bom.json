@@ -1,0 +1,46 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:6f0e8bdb-8a4f-4d04-9f62-1a75a1c2b3e5",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2025-05-14T10:00:00-05:00",
+    "tools": [
+      {
+        "vendor": "OpenAI",
+        "name": "ChatGPT",
+        "version": "o4-mini"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "openssl",
+      "version": "3.1.2-1",
+      "description": "OpenSSL cryptographic library (ALPM package)",
+      "scope": "required",
+      "cpe": "cpe:2.3:a:openssl:openssl:3.1.2:*:*:*:*:*:*:*",
+      "properties": [
+        {
+          "name": "format",
+          "value": "alpm"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "openssl",
+      "version": "3.1.2-1",
+      "description": "OpenSSL cryptographic library (ALPM package)",
+      "scope": "required",
+      "purl": "pkg:alpm/openssl@3.1.2-1",
+      "properties": [
+        {
+          "name": "format",
+          "value": "alpm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:f8a3b4c1-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2025-05-05T21:39:40Z",
+    "tools": [
+      {
+        "vendor": "Google",
+        "name": "Gemini AI",
+        "version": "1.0"
+      }
+    ]
+  },
+  "components": [
+    {
+      "bom-ref": "urn:uuid:a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "type": "file",
+      "name": "file-hash-1",
+      "version": "unknown",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "65cb6912627e9ecfb0c365cb6912627e9ecfb0c3"
+        }
+      ]
+    },
+    {
+      "bom-ref": "urn:uuid:b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+      "type": "file",
+      "name": "file-hash-2",
+      "version": "unknown",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "bffe9e66e971a1ab3ce5bffe9e66e971a1ab3ce5"
+        }
+      ]
+    },
+    {
+      "bom-ref": "urn:uuid:c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+      "type": "file",
+      "name": "file-hash-3",
+      "version": "unknown",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "beeefc78c1c68a6f8a5bbeeefc78c1c68a6f8a5b"
+        }
+      ]
+    },
+    {
+      "bom-ref": "urn:uuid:d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f90",
+      "type": "file",
+      "name": "file-hash-4",
+      "version": "unknown",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "1c1430d800e27ea7158a1c1430d800e27ea7158a"
+        }
+      ]
+    },
+    {
+      "bom-ref": "urn:uuid:e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f90a1",
+      "type": "file",
+      "name": "file-hash-5",
+      "version": "unknown",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "69ac8c526bc2daeb84e069ac8c526bc2daeb84e0"
+        }
+      ]
+    }
+  ]
+}

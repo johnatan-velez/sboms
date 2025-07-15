@@ -1,0 +1,15 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:8e0b299a-f3f6-4444-a9c0-932f9e9d9a2c",
+  "version": 1,
+  "components": [
+    {
+      "type": "application",
+      "group": "example",
+      "name": "fullcpe",
+      "version": "3.2.1",
+      "cpe": "cpe:2.3:a:example:fullcpe:3.2.1:sp1:professional:en-us:java_8:windows_10:x86:multi-user_license"
+    }
+  ]
+}
